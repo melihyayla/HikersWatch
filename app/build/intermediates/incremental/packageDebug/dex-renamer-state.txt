@@ -1,0 +1,7 @@
+#Mon Jul 17 02:21:48 EEST 2017
+base.0=C\:\\Users\\melih\\Documents\\Android workspace\\HikersWatch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_17fbe4442dd207eedc3b3a7d0f51e5a0fd830697
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\melih\\Documents\\Android workspace\\HikersWatch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_19211a35235029bcedc876ce8bc4cacbe1e4d3f9\\classes.dex
+base.1=C\:\\Users\\melih\\Documents\\Android workspace\\HikersWatch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_19211a35235029bcedc876ce8bc4cacbe1e4d3f9
+file.0=C\:\\Users\\melih\\Documents\\Android workspace\\HikersWatch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_17fbe4442dd207eedc3b3a7d0f51e5a0fd830697\\classes.dex
